@@ -6,3 +6,4 @@ mesure. Le projet va aussi devoir dbuter sous peu. Un systme de versioning va
 devenir plus qu'important.
 L'objectif principal est de mettre en place et grer les premiers vnements de
 ce dpt git.
+Todo list in the todo File
